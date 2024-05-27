@@ -18,7 +18,7 @@ AND and_1(
 
 NOT not_1(
 	.a(and_output),
-	.c(not_output)
+	.b(not_output)
 );
 
 assign c = not_output;

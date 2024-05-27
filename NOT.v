@@ -1,8 +1,8 @@
 module NOT(
 	input wire a,
-	output wire c
+	output wire b
 );
 
-assign c = ~a;
+assign b = ~a;
 
 endmodule
