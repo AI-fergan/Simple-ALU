@@ -1,0 +1,41 @@
+`timescale 1ns/1ps
+
+module AND_8bit_tb;
+
+    // Inputs
+    reg [7:0] a;
+    reg [7:0] b;
+
+    // Outputs
+    wire [7:0] c;
+
+    // Instantiate the Unit Under Test (UUT)
+    AND_8bit uut (
+        .a(a), 
+        .b(b), 
+        .c(c)
+    );
+
+    initial begin
+        // Initialize inputs
+        a = 8'b00000000;
+        b = 8'b00000000;
+
+        // Apply test vectors with delays
+        #10 a = 8'b00001111; b = 8'b11110000; #10;
+        #10 a = 8'b10101010; b = 8'b01010101; #10;
+        #10 a = 8'b11111111; b = 8'b11111111; #10;
+        #10 a = 8'b00110011; b = 8'b11001100; #10;
+        #10 a = 8'b00001111; b = 8'b00001111; #10;
+
+        // Wait for some time to observe results
+        #50;
+    end
+
+    initial begin
+        // Monitor the inputs and outputs
+        $monitor("At time %t, a = %b, b = %b, c = %b", $time, a, b, c);
+    end
+
+endmodule
+

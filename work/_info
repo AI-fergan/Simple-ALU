@@ -1,0 +1,729 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/noam/Desktop/Verilog
+vAdder_16bit
+Z0 !s110 1734365080
+!i10b 1
+!s100 k<oFdK6VhLfQeXa_V;=no1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IR9o0[54Ti9<oQ9U3@1BL61
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 d/home/noam/Desktop/Projects/Verilog-ALU
+w1734363212
+8Adder_16bit.v
+FAdder_16bit.v
+!i122 157
+Z4 L0 3 27
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1734365080.000000
+!s107 AND_4bit.v|AND_16bit.v|OR.v|AND.v|XOR.v|Half_Adder.v|Full_Adder.v|Adder_8bit.v|Adder_16bit.v|/home/noam/Desktop/Projects/Verilog-ALU/ALU.v|
+Z7 !s90 -reportprogress|300|-work|work|-stats=none|/home/noam/Desktop/Projects/Verilog-ALU/ALU.v|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+n@adder_16bit
+vAdder_4bit
+Z10 !s110 1734364025
+!i10b 1
+!s100 G_gaFa3M=i49eaN^<9af>2
+R1
+IWRSEX9lkHX95DZHI>z6^l1
+R2
+R3
+w1734363032
+8/home/noam/Desktop/Projects/Verilog-ALU/Adder_4bit.v
+F/home/noam/Desktop/Projects/Verilog-ALU/Adder_4bit.v
+!i122 147
+L0 3 43
+R5
+r1
+!s85 0
+31
+Z11 !s108 1734364025.000000
+!s107 OR.v|AND.v|XOR.v|Half_Adder.v|Full_Adder.v|/home/noam/Desktop/Projects/Verilog-ALU/Adder_4bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/noam/Desktop/Projects/Verilog-ALU/Adder_4bit.v|
+!i113 1
+R8
+R9
+n@adder_4bit
+vAdder_8bit
+R0
+!i10b 1
+!s100 mW1gLKlgNKTF>h1=S:RS61
+R1
+IeB3NZ=Lb3dC_XbJX];CCk1
+R2
+R3
+w1734363025
+8Adder_8bit.v
+FAdder_8bit.v
+!i122 157
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z12 !s107 AND_4bit.v|AND_16bit.v|OR.v|AND.v|XOR.v|Half_Adder.v|Full_Adder.v|Adder_8bit.v|Adder_16bit.v|/home/noam/Desktop/Projects/Verilog-ALU/ALU.v|
+R7
+!i113 1
+R8
+R9
+n@adder_8bit
+vALU
+R0
+!i10b 1
+!s100 ;>ooP>c4dNA3DPI0WKTK@2
+R1
+ICzIHl=B8P3YLUm[HPhDb00
+R2
+R3
+w1734365063
+8/home/noam/Desktop/Projects/Verilog-ALU/ALU.v
+F/home/noam/Desktop/Projects/Verilog-ALU/ALU.v
+!i122 157
+L0 4 68
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 1
+R8
+R9
+n@a@l@u
+vAND
+R0
+!i10b 1
+!s100 c^lfOcT3MN9KR_^KA>T[Q2
+R1
+I928[Ci1nA>FCKgOH0<bD?3
+R2
+R3
+w1716714548
+8AND.v
+FAND.v
+!i122 157
+Z13 L0 1 9
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 1
+R8
+R9
+n@a@n@d
+vAND_16bit
+R0
+!i10b 1
+!s100 _Y0^m^T2:8690R5EUWKE00
+R1
+I5I@`^C[QB0bBZM`2@AW2]1
+R2
+R3
+w1716735304
+8AND_16bit.v
+FAND_16bit.v
+!i122 157
+Z14 L0 3 23
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 1
+R8
+R9
+n@a@n@d_16bit
+vAND_4bit
+R0
+!i10b 1
+!s100 <Y2>iT2Si<@gCJWV8^7O^3
+R1
+I<IJaemX>0I=K;CM<KKDmP0
+R2
+R3
+w1716721186
+8AND_4bit.v
+FAND_4bit.v
+!i122 157
+L0 3 36
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 1
+R8
+R9
+n@a@n@d_4bit
+vAND_8bit
+Z15 !s110 1734364024
+!i10b 1
+!s100 :KbFTiH:RY0R@EIL41[3e3
+R1
+I3`3<MWd9T=5ZmWcf`cbGK2
+R2
+R3
+w1716723428
+8/home/noam/Desktop/Projects/Verilog-ALU/AND_8bit.v
+F/home/noam/Desktop/Projects/Verilog-ALU/AND_8bit.v
+!i122 129
+R14
+R5
+r1
+!s85 0
+31
+Z16 !s108 1734364024.000000
+!s107 AND.v|AND_4bit.v|/home/noam/Desktop/Projects/Verilog-ALU/AND_8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/noam/Desktop/Projects/Verilog-ALU/AND_8bit.v|
+!i113 1
+R8
+R9
+n@a@n@d_8bit
+vAND_8bit_tb
+!s110 1716728895
+!i10b 1
+!s100 DoEMHoL`2GdYYdS=eZm>b0
+R1
+IBX`[9P]:PTzzLh`IJGNa:1
+R2
+R3
+w1716728590
+Z17 8/home/noam/Desktop/Projects/Verilog-ALU/AND_8bit_tb.v
+Z18 F/home/noam/Desktop/Projects/Verilog-ALU/AND_8bit_tb.v
+!i122 40
+L0 3 38
+R5
+r1
+!s85 0
+31
+!s108 1716728895.000000
+Z19 !s107 /home/noam/Desktop/Projects/Verilog-ALU/AND_8bit_tb.v|
+Z20 !s90 -reportprogress|300|-work|work|-stats=none|/home/noam/Desktop/Projects/Verilog-ALU/AND_8bit_tb.v|
+!i113 1
+R8
+R9
+n@a@n@d_8bit_tb
+vDMUX
+R10
+!i10b 1
+!s100 4bMl43<0RiJGQ;_jaMaX22
+R1
+I]IN_ihlj1;N<nCofO3jdF0
+R2
+R3
+w1716921754
+8DMUX.v
+FDMUX.v
+!i122 145
+L0 4 26
+R5
+r1
+!s85 0
+31
+R11
+Z21 !s107 NOT.v|AND.v|DMUX.v|DMUX_4bit.v|/home/noam/Desktop/Projects/Verilog-ALU/DMUX_8bit.v|
+Z22 !s90 -reportprogress|300|-work|work|-stats=none|/home/noam/Desktop/Projects/Verilog-ALU/DMUX_8bit.v|
+!i113 1
+R8
+R9
+n@d@m@u@x
+vDMUX_4bit
+R10
+!i10b 1
+!s100 GB2?ZFY7o]_;dOe7AMeeS0
+R1
+ISR0C0?319YcmJn[J[9fZk1
+R2
+R3
+w1716924735
+8DMUX_4bit.v
+FDMUX_4bit.v
+!i122 145
+R4
+R5
+r1
+!s85 0
+31
+R11
+R21
+R22
+!i113 1
+R8
+R9
+n@d@m@u@x_4bit
+vDMUX_8bit
+R10
+!i10b 1
+!s100 B2<Kbg86<2<k8CSMgj;P[1
+R1
+I1BWno8zn4^zCC_ezi4XgO2
+R2
+R3
+w1734364013
+8/home/noam/Desktop/Projects/Verilog-ALU/DMUX_8bit.v
+F/home/noam/Desktop/Projects/Verilog-ALU/DMUX_8bit.v
+!i122 145
+R4
+R5
+r1
+!s85 0
+31
+R11
+R21
+R22
+!i113 1
+R8
+R9
+n@d@m@u@x_8bit
+vFull_Adder
+R0
+!i10b 1
+!s100 [=XmKfoD[e=:MjAETNYRb0
+R1
+I:amJ;edNQYfl4eeA7`Ui_2
+R2
+R3
+w1716738017
+8Full_Adder.v
+FFull_Adder.v
+!i122 157
+L0 4 34
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 1
+R8
+R9
+n@full_@adder
+vHalf_Adder
+R0
+!i10b 1
+!s100 4o]ZJk9]6;>=ImBGo37`Q2
+R1
+I<oXTm1;iJ[=RCF2?lE9Ae1
+R2
+R3
+w1716737073
+8Half_Adder.v
+FHalf_Adder.v
+!i122 157
+L0 4 20
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 1
+R8
+R9
+n@half_@adder
+vMUX
+R10
+!i10b 1
+!s100 Y5kz9]Vbl_oFn8<OQoKeL2
+R1
+IP^`@5G1R5cD;ecQnGGmOH2
+R2
+R3
+w1716804811
+8MUX.v
+FMUX.v
+!i122 142
+L0 5 35
+R5
+r1
+!s85 0
+31
+R11
+Z23 !s107 XOR.v|AND.v|NOT.v|MUX.v|MUX_4bit.v|MUX_8bit.v|/home/noam/Desktop/Projects/Verilog-ALU/MUX_16bit.v|
+Z24 !s90 -reportprogress|300|-work|work|-stats=none|/home/noam/Desktop/Projects/Verilog-ALU/MUX_16bit.v|
+!i113 1
+R8
+R9
+n@m@u@x
+vMUX_16bit
+R10
+!i10b 1
+!s100 m`m581bXImRBl1FVk[<KW0
+R1
+I6Ik:@=B6V5aD>bOm32:mz0
+R2
+R3
+w1716818137
+8/home/noam/Desktop/Projects/Verilog-ALU/MUX_16bit.v
+F/home/noam/Desktop/Projects/Verilog-ALU/MUX_16bit.v
+!i122 142
+L0 3 29
+R5
+r1
+!s85 0
+31
+R11
+R23
+R24
+!i113 1
+R8
+R9
+n@m@u@x_16bit
+vMUX_4bit
+R10
+!i10b 1
+!s100 dLKCgEN>fNacZlahNXWG:2
+R1
+IX]<^`N1b9nTHf=]n[MOhU3
+R2
+R3
+w1716812396
+8MUX_4bit.v
+FMUX_4bit.v
+!i122 142
+L0 3 32
+R5
+r1
+!s85 0
+31
+R11
+R23
+R24
+!i113 1
+R8
+R9
+n@m@u@x_4bit
+vMUX_8bit
+R10
+!i10b 1
+!s100 1cjPWW:fo0X@Nb3efA]`c1
+R1
+I=S22K=m:6=Kg[VI=;@7OV0
+R2
+R3
+w1716817597
+8MUX_8bit.v
+FMUX_8bit.v
+!i122 142
+L0 3 31
+R5
+r1
+!s85 0
+31
+R11
+R23
+R24
+!i113 1
+R8
+R9
+n@m@u@x_8bit
+vNAND
+!s110 1734364023
+!i10b 1
+!s100 dFGV1hO@00dbjEWS_WS=73
+R1
+I@`[:>IZBB1N5PcLTPT@;82
+R2
+R3
+w1716804712
+8/home/noam/Desktop/Projects/Verilog-ALU/NAND.v
+F/home/noam/Desktop/Projects/Verilog-ALU/NAND.v
+!i122 124
+L0 4 23
+R5
+r1
+!s85 0
+31
+!s108 1734364023.000000
+!s107 NOT.v|AND.v|/home/noam/Desktop/Projects/Verilog-ALU/NAND.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/noam/Desktop/Projects/Verilog-ALU/NAND.v|
+!i113 1
+R8
+R9
+n@n@a@n@d
+vNOT
+R10
+!i10b 1
+!s100 M@?9HzJkVVNU`D4]X5zfM2
+R1
+I>7m`_K5cZicl:@VE7[<fC3
+R2
+R3
+w1716804432
+8NOT.v
+FNOT.v
+!i122 145
+L0 1 8
+R5
+r1
+!s85 0
+31
+R11
+R21
+R22
+!i113 1
+R8
+R9
+n@n@o@t
+vOR
+R0
+!i10b 1
+!s100 [1Ahj^SNhV;GIEjB=1Ta62
+R1
+Iz`URBd2G<YiVD]Sk1>fJZ1
+R2
+R3
+w1716714311
+8OR.v
+FOR.v
+!i122 157
+R13
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 1
+R8
+R9
+n@o@r
+vOR_16bit
+R15
+!i10b 1
+!s100 6G^9<3ZBhWYeL0FYRVISc3
+R1
+I6<zznKkog>KVZLNQ=BezR3
+R2
+R3
+w1716735392
+8/home/noam/Desktop/Projects/Verilog-ALU/OR_16bit.v
+F/home/noam/Desktop/Projects/Verilog-ALU/OR_16bit.v
+!i122 133
+R14
+R5
+r1
+!s85 0
+31
+R16
+Z25 !s107 OR.v|OR_4bit.v|OR_8bit.v|/home/noam/Desktop/Projects/Verilog-ALU/OR_16bit.v|
+Z26 !s90 -reportprogress|300|-work|work|-stats=none|/home/noam/Desktop/Projects/Verilog-ALU/OR_16bit.v|
+!i113 1
+R8
+R9
+n@o@r_16bit
+vOR_4bit
+R15
+!i10b 1
+!s100 >8i9<_gjThLnV;D30e4GS3
+R1
+ICRVb;=jER;Q4SOabBR40F3
+R2
+R3
+w1716721584
+8OR_4bit.v
+FOR_4bit.v
+!i122 133
+Z27 L0 3 35
+R5
+r1
+!s85 0
+31
+R16
+R25
+R26
+!i113 1
+R8
+R9
+n@o@r_4bit
+vOR_8bit
+R15
+!i10b 1
+!s100 2lWFKE<E45KJOK==l:82G2
+R1
+Ih2z@M?i9e;jYTLKcZWX[I2
+R2
+R3
+w1716727401
+8OR_8bit.v
+FOR_8bit.v
+!i122 133
+R14
+R5
+r1
+!s85 0
+31
+R16
+R25
+R26
+!i113 1
+R8
+R9
+n@o@r_8bit
+vsimple_initial_example
+R15
+!i10b 1
+!s100 cf;NK5j=k42GLABim<fjF3
+R1
+ITzU5oWUSJYIbd9fcbPR?11
+R2
+R3
+w1716734381
+R17
+R18
+!i122 131
+L0 1 31
+R5
+r1
+!s85 0
+31
+R16
+R19
+R20
+!i113 1
+R8
+R9
+vtop_module
+!s110 1716712175
+!i10b 1
+!s100 V0RE:A]=B;F842AdHFoMf3
+R1
+IKM=CTT<@P9HV19GP074^f3
+R2
+R3
+w1716712170
+8/home/noam/Desktop/Projects/Verilog-ALU/XOR.v
+F/home/noam/Desktop/Projects/Verilog-ALU/XOR.v
+!i122 9
+L0 20 19
+R5
+r1
+!s85 0
+31
+!s108 1716712175.000000
+!s107 NAND.v|/home/noam/Desktop/Projects/Verilog-ALU/XOR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/noam/Desktop/Projects/Verilog-ALU/XOR.v|
+!i113 1
+R8
+R9
+vXOR
+R0
+!i10b 1
+!s100 TDB_H=PNKH[iAbZ?F?TlA2
+R1
+I8dN[[LTo7fFaWZiZ3LhVM3
+R2
+R3
+w1716714129
+8XOR.v
+FXOR.v
+!i122 157
+R13
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 1
+R8
+R9
+n@x@o@r
+vXOR_16bit
+R15
+!i10b 1
+!s100 E_G2M:loHLYeX8Y4=[^S51
+R1
+I1k:c_;dG3YoC@PMm>]G_l3
+R2
+R3
+w1734358301
+8/home/noam/Desktop/Projects/Verilog-ALU/XOR_16bit.v
+F/home/noam/Desktop/Projects/Verilog-ALU/XOR_16bit.v
+!i122 136
+R14
+R5
+r1
+!s85 0
+31
+R16
+Z28 !s107 XOR.v|XOR_4bit.v|XOR_8bit.v|/home/noam/Desktop/Projects/Verilog-ALU/XOR_16bit.v|
+Z29 !s90 -reportprogress|300|-work|work|-stats=none|/home/noam/Desktop/Projects/Verilog-ALU/XOR_16bit.v|
+!i113 1
+R8
+R9
+n@x@o@r_16bit
+vXOR_4bit
+R15
+!i10b 1
+!s100 0]d45N0zP69L;=`SbeG5z3
+R1
+I?H@T@PB1jJo;gR5WlB>D53
+R2
+R3
+w1716735663
+8XOR_4bit.v
+FXOR_4bit.v
+!i122 136
+R27
+R5
+r1
+!s85 0
+31
+R16
+R28
+R29
+!i113 1
+R8
+R9
+n@x@o@r_4bit
+vXOR_8bit
+R15
+!i10b 1
+!s100 0BWb8Zf9H5IOQP>b]GBdR3
+R1
+I<3f^^?eUTc>8V2;Az^:033
+R2
+R3
+w1716735641
+8XOR_8bit.v
+FXOR_8bit.v
+!i122 136
+R14
+R5
+r1
+!s85 0
+31
+R16
+R28
+R29
+!i113 1
+R8
+R9
+n@x@o@r_8bit
