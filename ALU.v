@@ -1,5 +1,4 @@
-`include "Adder_16bit.v"
-`include "AND_16bit.v"
+`include "16bit_Gates.v"
 
 module ALU (
     input [15:0] num_1,       // First operand

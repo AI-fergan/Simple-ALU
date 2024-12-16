@@ -1,4 +1,4 @@
-`include "Adder_4bit.v"
+`include "4bit_Gates.v"
 
 module Adder_8bit(
     input wire [7:0] num_1,

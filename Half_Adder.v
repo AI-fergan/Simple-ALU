@@ -1,5 +1,4 @@
-`include "XOR.v"
-`include "AND.v"
+`include "Basic_Gates.v"
 
 module Half_Adder(
 	input wire num_1,

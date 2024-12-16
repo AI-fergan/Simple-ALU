@@ -1,5 +1,5 @@
 `include "Half_Adder.v"
-`include "OR.v"
+`include "Basic_Gates.v"
 
 module Full_Adder(
 	input wire num_1,
