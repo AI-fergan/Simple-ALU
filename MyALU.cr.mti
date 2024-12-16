@@ -1,272 +1,278 @@
-/home/noam/Desktop/Projects/Verilog-ALU/XOR_4bit.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/XOR_4bit.v
+/home/noam/Desktop/Projects/Verilog-ALU/Adder_16bit.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/Adder_16bit.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module XOR
--- Compiling module XOR_4bit
-
-Top level modules:
-	XOR_4bit
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/OR_4bit.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/OR_4bit.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module OR
--- Compiling module OR_4bit
-
-Top level modules:
-	OR_4bit
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/Adder_16bit.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/Adder_16bit.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module XOR
+-- Compiling module NOT
+-- Compiling module NAND
+-- Compiling module MUX
+-- Compiling module DMUX
 -- Compiling module AND
--- Compiling module Half_Adder
--- Compiling module OR
--- Compiling module Full_Adder
--- Compiling module Adder_8bit
+-- Compiling module XOR_4bit
+-- Compiling module OR_4bit
+-- Compiling module MUX_4bit
+-- Compiling module DMUX_4bit
+-- Compiling module NOT_4bit
+-- Compiling module AND_4bit
+-- Compiling module XOR_8bit
+-- Compiling module OR_8bit
+-- Compiling module MUX_8bit
+-- Compiling module DMUX_8bit
+-- Compiling module AND_8bit
 -- Compiling module Adder_16bit
 
 Top level modules:
-	Full_Adder
+	NAND
+	DMUX_4bit
+	NOT_4bit
+	XOR_8bit
+	OR_8bit
+	MUX_8bit
+	DMUX_8bit
+	AND_8bit
 	Adder_16bit
 
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/AND_4bit.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/AND_4bit.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module AND
--- Compiling module AND_4bit
-
-Top level modules:
-	AND_4bit
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/DMUX.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/DMUX.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module AND
--- Compiling module NOT
--- Compiling module DMUX
-
-Top level modules:
-	DMUX
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/XOR_8bit.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/XOR_8bit.v
+} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/Basic_Gates.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/Basic_Gates.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module XOR
--- Compiling module XOR_4bit
--- Compiling module XOR_8bit
-
-Top level modules:
-	XOR_8bit
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/OR_8bit.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/OR_8bit.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module OR
--- Compiling module OR_4bit
--- Compiling module OR_8bit
-
-Top level modules:
-	OR_8bit
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/DMUX_4bit.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/DMUX_4bit.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module AND
 -- Compiling module NOT
+-- Compiling module NAND
+-- Compiling module MUX
 -- Compiling module DMUX
--- Compiling module DMUX_4bit
-
-Top level modules:
-	DMUX_4bit
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/XOR.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/XOR.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module XOR
-
-Top level modules:
-	XOR
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/OR.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/OR.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module OR
+-- Compiling module AND
 
 Top level modules:
 	OR
+	NAND
+	MUX
+	DMUX
 
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/AND_8bit.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/AND_8bit.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module AND
--- Compiling module AND_4bit
--- Compiling module AND_8bit
-
-Top level modules:
-	AND_8bit
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/ALU.v {2 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/ALU.v
+} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/4bit_Gates.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/4bit_Gates.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module XOR
--- Compiling module AND
--- Compiling module Half_Adder
 -- Compiling module OR
--- Compiling module Full_Adder
--- Compiling module Adder_8bit
--- Compiling module Adder_16bit
-** Warning: ** while parsing file included at /home/noam/Desktop/Projects/Verilog-ALU/ALU.v(2)
-** while parsing file included at AND_16bit.v(1)
-** while parsing file included at AND_4bit.v(1)
-** at AND.v(1): (vlog-2275) Existing module 'AND' will be overwritten.
+-- Compiling module NOT
+-- Compiling module NAND
+-- Compiling module MUX
+-- Compiling module DMUX
 -- Compiling module AND
+-- Compiling module XOR_4bit
+-- Compiling module OR_4bit
+-- Compiling module MUX_4bit
+-- Compiling module DMUX_4bit
+-- Compiling module NOT_4bit
 -- Compiling module AND_4bit
+
+Top level modules:
+	NAND
+	XOR_4bit
+	OR_4bit
+	MUX_4bit
+	DMUX_4bit
+	NOT_4bit
+	AND_4bit
+
+} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/Adder_8bit.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/Adder_8bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module XOR
+-- Compiling module OR
+-- Compiling module NOT
+-- Compiling module NAND
+-- Compiling module MUX
+-- Compiling module DMUX
+-- Compiling module AND
+-- Compiling module XOR_4bit
+-- Compiling module OR_4bit
+-- Compiling module MUX_4bit
+-- Compiling module DMUX_4bit
+-- Compiling module NOT_4bit
+-- Compiling module AND_4bit
+-- Compiling module Adder_8bit
+
+Top level modules:
+	NAND
+	XOR_4bit
+	OR_4bit
+	MUX_4bit
+	DMUX_4bit
+	NOT_4bit
+	AND_4bit
+	Adder_8bit
+
+} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/ALU.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module XOR
+-- Compiling module OR
+-- Compiling module NOT
+-- Compiling module NAND
+-- Compiling module MUX
+-- Compiling module DMUX
+-- Compiling module AND
+-- Compiling module XOR_4bit
+-- Compiling module OR_4bit
+-- Compiling module MUX_4bit
+-- Compiling module DMUX_4bit
+-- Compiling module NOT_4bit
+-- Compiling module AND_4bit
+-- Compiling module XOR_8bit
+-- Compiling module OR_8bit
+-- Compiling module MUX_8bit
+-- Compiling module DMUX_8bit
+-- Compiling module AND_8bit
+-- Compiling module XOR_16bit
+-- Compiling module OR_16bit
+-- Compiling module MUX_16bit
+-- Compiling module NOT_16bit
 -- Compiling module AND_16bit
 -- Compiling module ALU
 
 Top level modules:
-	Full_Adder
-	AND_4bit
+	NAND
+	DMUX_4bit
+	NOT_4bit
+	DMUX_8bit
+	MUX_16bit
 	ALU
 
 } {} {}} /home/noam/Desktop/Projects/Verilog-ALU/Half_Adder.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/Half_Adder.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module XOR
+-- Compiling module OR
+-- Compiling module NOT
+-- Compiling module NAND
+-- Compiling module MUX
+-- Compiling module DMUX
 -- Compiling module AND
 -- Compiling module Half_Adder
 
 Top level modules:
+	OR
+	NAND
+	MUX
+	DMUX
 	Half_Adder
 
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/MUX.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/MUX.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module NOT
--- Compiling module AND
--- Compiling module XOR
--- Compiling module MUX
-
-Top level modules:
-	MUX
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/AND.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/AND.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module AND
-
-Top level modules:
-	AND
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/DMUX_8bit.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/DMUX_8bit.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module AND
--- Compiling module NOT
--- Compiling module DMUX
--- Compiling module DMUX_4bit
--- Compiling module DMUX_8bit
-
-Top level modules:
-	DMUX_4bit
-	DMUX_8bit
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/MUX_4bit.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/MUX_4bit.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module NOT
--- Compiling module AND
--- Compiling module XOR
--- Compiling module MUX
--- Compiling module MUX_4bit
-
-Top level modules:
-	MUX_4bit
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/XOR_16bit.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/XOR_16bit.v
+} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/16bit_Gates.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/16bit_Gates.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module XOR
--- Compiling module XOR_4bit
--- Compiling module XOR_8bit
--- Compiling module XOR_16bit
-
-Top level modules:
-	XOR_16bit
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/AND_8bit_tb.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/AND_8bit_tb.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module simple_initial_example
-
-Top level modules:
-	simple_initial_example
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/OR_16bit.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/OR_16bit.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module OR
+-- Compiling module NOT
+-- Compiling module NAND
+-- Compiling module MUX
+-- Compiling module DMUX
+-- Compiling module AND
+-- Compiling module XOR_4bit
 -- Compiling module OR_4bit
--- Compiling module OR_8bit
--- Compiling module OR_16bit
-
-Top level modules:
-	OR_16bit
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/MUX_16bit.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/MUX_16bit.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module NOT
--- Compiling module AND
--- Compiling module XOR
--- Compiling module MUX
 -- Compiling module MUX_4bit
--- Compiling module MUX_8bit
--- Compiling module MUX_16bit
-
-Top level modules:
-	MUX_16bit
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/MUX_8bit.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/MUX_8bit.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module NOT
--- Compiling module AND
--- Compiling module XOR
--- Compiling module MUX
--- Compiling module MUX_4bit
--- Compiling module MUX_8bit
-
-Top level modules:
-	MUX_8bit
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/AND_16bit.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/AND_16bit.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module AND
+-- Compiling module DMUX_4bit
+-- Compiling module NOT_4bit
 -- Compiling module AND_4bit
+-- Compiling module XOR_8bit
+-- Compiling module OR_8bit
+-- Compiling module MUX_8bit
+-- Compiling module DMUX_8bit
+-- Compiling module AND_8bit
+-- Compiling module XOR_16bit
+-- Compiling module OR_16bit
+-- Compiling module MUX_16bit
+-- Compiling module NOT_16bit
 -- Compiling module AND_16bit
 
 Top level modules:
-	AND_4bit
+	NAND
+	DMUX_4bit
+	NOT_4bit
+	DMUX_8bit
+	XOR_16bit
+	OR_16bit
+	MUX_16bit
+	NOT_16bit
 	AND_16bit
 
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/NOT.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/NOT.v
+} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/Full_Adder.v {2 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/Full_Adder.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module NOT
-
-Top level modules:
-	NOT
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/NAND.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/NAND.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module AND
+-- Compiling module XOR
+-- Compiling module OR
 -- Compiling module NOT
 -- Compiling module NAND
+-- Compiling module MUX
+-- Compiling module DMUX
+-- Compiling module AND
+-- Compiling module Half_Adder
+** Warning: ** while parsing file included at /home/noam/Desktop/Projects/Verilog-ALU/Full_Adder.v(2)
+** at Basic_Gates.v(2): (vlog-2275) Existing module 'XOR' will be overwritten.
+-- Compiling module XOR
+** Warning: ** while parsing file included at /home/noam/Desktop/Projects/Verilog-ALU/Full_Adder.v(2)
+** at Basic_Gates.v(11): (vlog-2275) Existing module 'OR' will be overwritten.
+-- Compiling module OR
+** Warning: ** while parsing file included at /home/noam/Desktop/Projects/Verilog-ALU/Full_Adder.v(2)
+** at Basic_Gates.v(20): (vlog-2275) Existing module 'NOT' will be overwritten.
+-- Compiling module NOT
+** Warning: ** while parsing file included at /home/noam/Desktop/Projects/Verilog-ALU/Full_Adder.v(2)
+** at Basic_Gates.v(28): (vlog-2275) Existing module 'NAND' will be overwritten.
+-- Compiling module NAND
+** Warning: ** while parsing file included at /home/noam/Desktop/Projects/Verilog-ALU/Full_Adder.v(2)
+** at Basic_Gates.v(53): (vlog-2275) Existing module 'MUX' will be overwritten.
+-- Compiling module MUX
+** Warning: ** while parsing file included at /home/noam/Desktop/Projects/Verilog-ALU/Full_Adder.v(2)
+** at Basic_Gates.v(89): (vlog-2275) Existing module 'DMUX' will be overwritten.
+-- Compiling module DMUX
+** Warning: ** while parsing file included at /home/noam/Desktop/Projects/Verilog-ALU/Full_Adder.v(2)
+** at Basic_Gates.v(116): (vlog-2275) Existing module 'AND' will be overwritten.
+-- Compiling module AND
+-- Compiling module Full_Adder
 
 Top level modules:
 	NAND
+	MUX
+	DMUX
+	Full_Adder
 
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/Adder_4bit.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/Adder_4bit.v
+} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/Adder_4bit.v {2 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/Adder_4bit.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module XOR
+-- Compiling module OR
+-- Compiling module NOT
+-- Compiling module NAND
+-- Compiling module MUX
+-- Compiling module DMUX
 -- Compiling module AND
 -- Compiling module Half_Adder
+** Warning: ** while parsing file included at /home/noam/Desktop/Projects/Verilog-ALU/Adder_4bit.v(1)
+** while parsing file included at Full_Adder.v(2)
+** at Basic_Gates.v(2): (vlog-2275) Existing module 'XOR' will be overwritten.
+-- Compiling module XOR
+** Warning: ** while parsing file included at /home/noam/Desktop/Projects/Verilog-ALU/Adder_4bit.v(1)
+** while parsing file included at Full_Adder.v(2)
+** at Basic_Gates.v(11): (vlog-2275) Existing module 'OR' will be overwritten.
 -- Compiling module OR
+** Warning: ** while parsing file included at /home/noam/Desktop/Projects/Verilog-ALU/Adder_4bit.v(1)
+** while parsing file included at Full_Adder.v(2)
+** at Basic_Gates.v(20): (vlog-2275) Existing module 'NOT' will be overwritten.
+-- Compiling module NOT
+** Warning: ** while parsing file included at /home/noam/Desktop/Projects/Verilog-ALU/Adder_4bit.v(1)
+** while parsing file included at Full_Adder.v(2)
+** at Basic_Gates.v(28): (vlog-2275) Existing module 'NAND' will be overwritten.
+-- Compiling module NAND
+** Warning: ** while parsing file included at /home/noam/Desktop/Projects/Verilog-ALU/Adder_4bit.v(1)
+** while parsing file included at Full_Adder.v(2)
+** at Basic_Gates.v(53): (vlog-2275) Existing module 'MUX' will be overwritten.
+-- Compiling module MUX
+** Warning: ** while parsing file included at /home/noam/Desktop/Projects/Verilog-ALU/Adder_4bit.v(1)
+** while parsing file included at Full_Adder.v(2)
+** at Basic_Gates.v(89): (vlog-2275) Existing module 'DMUX' will be overwritten.
+-- Compiling module DMUX
+** Warning: ** while parsing file included at /home/noam/Desktop/Projects/Verilog-ALU/Adder_4bit.v(1)
+** while parsing file included at Full_Adder.v(2)
+** at Basic_Gates.v(116): (vlog-2275) Existing module 'AND' will be overwritten.
+-- Compiling module AND
 -- Compiling module Full_Adder
 -- Compiling module Adder_4bit
 
 Top level modules:
+	NAND
+	MUX
+	DMUX
 	Adder_4bit
-
-} {} {}} /home/noam/Desktop/Projects/Verilog-ALU/Full_Adder.v {1 {vlog -work work -stats=none /home/noam/Desktop/Projects/Verilog-ALU/Full_Adder.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module XOR
--- Compiling module AND
--- Compiling module Half_Adder
--- Compiling module OR
--- Compiling module Full_Adder
-
-Top level modules:
-	Full_Adder
 
 } {} {}}
