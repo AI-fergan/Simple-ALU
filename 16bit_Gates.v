@@ -76,6 +76,22 @@ MUX mux_3(
 );
 endmodule
 
+/* NOT Gate */
+module NOT_16bit(
+	input wire [15:0] a,
+	output wire [15:0] b
+);
+NOT_8bit not_1(
+	.a(a[7:0]),
+	.b(b[7:0])
+);
+
+NOT_8bit not_2(
+	.a(a[15:8]),
+	.b(b[15:8])
+);
+endmodule
+
 /* AND Gate */
 module AND_16bit(
 	input wire [15:0] a,

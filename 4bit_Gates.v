@@ -21,7 +21,7 @@ XOR xor_2(
 	.c(XOR_output[1])
 );
 
-OR xor_3(
+XOR xor_3(
 	.a(a[2]),
 	.b(b[2]),
 	.c(XOR_output[2])
@@ -130,6 +130,32 @@ DMUX dmux_3(
 	.out(out[3:2])
 );
 endmodule	
+
+/* NOT Gate */
+module NOT_4bit(
+	input wire [3:0] a,
+	output wire [3:0] b
+);
+NOT not_1(
+	.a(a[0]),
+	.b(b[0])
+);
+
+NOT not_2(
+	.a(a[1]),
+	.b(b[1])
+);
+
+NOT not_3(
+	.a(a[2]),
+	.b(b[2])
+);
+
+NOT not_4(
+	.a(a[3]),
+	.b(b[3])
+);
+endmodule
 
 /* AND Gate */
 module AND_4bit(

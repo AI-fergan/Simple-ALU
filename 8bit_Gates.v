@@ -106,6 +106,22 @@ DMUX dmux_3(
 );
 endmodule	
 
+/* NOT Gate */
+module NOT_8bit(
+	input wire [7:0] a,
+	output wire [7:0] b
+);
+NOT_4bit not_1(
+	.a(a[3:0]),
+	.b(b[3:0])
+);
+
+NOT_4bit not_2(
+	.a(a[7:4]),
+	.b(b[7:4])
+);
+endmodule
+
 /* AND Gate */
 module AND_8bit(
 	input wire [7:0] a,
